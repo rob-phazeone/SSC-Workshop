@@ -13,7 +13,7 @@
             ],
             "program": "${file}",
             "env": {
-                "GH_TOKEN":"ghp_gqUqqqIYdQPq13qqH1KA3cXRn8JD2lqir2d4"
+                "GH_TOKEN":""
             }
         },
     ]
