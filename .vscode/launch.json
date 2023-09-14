@@ -13,7 +13,7 @@
             ],
             "program": "${file}",
             "env": {
-                "GH_TOKEN":""
+                "GH_TOKEN":"fix"
             }
         },
     ]
